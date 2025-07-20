@@ -1,0 +1,31 @@
+# Commands:-
+
+1. echo : helps to print any text.
+2. whoami : tells us what user we are currently logged in as!
+3. ls : lists the file name or the content of the directory or file.
+4. cd : used while changing the directory.
+5. cat : used to see the content of the file.
+6. cd .. : used to go back one step.
+7. pwd : prints working directory.
+8. find : just as the name says if it helps to find the file.
+9. grep : it allows us to search the contents of files for specific values that we are looking for.
+10. & : This operator allows you to run commands in the background of your terminal.
+11. && : This operator allows you to combine multiple commands together in one line of your terminal.
+12. > : This operator is a redirector - meaning that we can take the output from a command (such as using cat to output a file) and direct it elsewhere.
+13. >> : This operator does the same function of the > operator but appends the output rather than replacing (meaning nothing is overwritten).
+14. ls -a : lists all the hidden file.
+15. ls --help : gives brief discussion on all the commands.
+16. man : list everything like manual page.
+17. touch : helps to create a file.
+18. mkdir(make directory) : crate a folder.
+19. cp : copies a file or folder.
+20. mv : moves a file or a folder.
+21. rm : removes a file or a folder.
+22. file : determines the type of file.
+23. ls -l : list all the permission given to a file.
+24. su : used for switching users.
+25. nano : used to create or edit a file.
+26. wget : allows us to download files from the web via HTTP
+27. SCP : securely copying files.
+28. ps : provide a list of the running processes
+29. ps aux : To see the processes run by other users and those that don't run from a session
