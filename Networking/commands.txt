@@ -1,0 +1,3 @@
+## Commands:
+
+1. ipconfig/ifconfig/ip a s : gives info about the ip address , subnet mask and broadcast address.
